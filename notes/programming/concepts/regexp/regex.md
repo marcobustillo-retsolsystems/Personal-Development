@@ -33,5 +33,5 @@ Lesson Notes
 ```javascript
 let re = /\w+\d+/;
 let teststring = 'Word123';
-res.test(teststring); // will return true and false
+res.test(teststring); // will return true or false
 ```
